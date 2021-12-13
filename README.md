@@ -60,13 +60,6 @@ Tools & technologies I have worked with: <br>
 ![Github](https://img.shields.io/badge/-Github-141414?style=flat&logo=github)
 ![Intellij Idea](https://img.shields.io/badge/-Intellij%20Idea-141414?style=flat&logo=intellij-idea)
 
-Some of my favorite open source projects: <br>
-[![Dark Reader](https://img.shields.io/badge/-Dark&#32;Reader-141414?style=flat&logo=dark-reader)](https://github.com/darkreader/darkreader)
-[![Insomnia](https://img.shields.io/badge/-Insomnia-141414?style=flat&logo=insomnia)](https://github.com/Kong/insomnia)
-[![uBlock Origin](https://img.shields.io/badge/-uBlock&#32;Origin-141414?style=flat&logo=UBlock-Origin&logoColor=800000)](https://github.com/gorhill/uBlock)
-[![MEGA](https://img.shields.io/badge/-MEGA-141414?style=flat&logo=mega&logoColor=D9272E)](ttps://github.com/meganz/)
-[![Visual Studio Code](https://img.shields.io/badge/-VSCode-141414?style=flat&logo=visual-studio-code&logoColor=007ACC)](https://github.com/microsoft/vscode)
-
 ### ✔️ I'm currently learning
 - C/C++
 - Go
