@@ -1,11 +1,6 @@
-<h2 align="center"> Welcome to my GitHub! I'm Ha Anh Tuan 👋 <br/> </h2>
-<p align="center">
-  <img width="490" height="165" src="https://github-readme-stats.vercel.app/api?username=tuanictu97&show_icons=true&hide_border=false&line_height=20&title_color=f69673&icon_color=1b93c9&show_owner=true"/>
-  <p align="center">
-    <a href="https://github.com/tuanictu97/"><img src="https://img.shields.io/github/followers/tuanictu97?color=%234CC61E&label=GitHub%20Followers%20%3A"/></a>
-  </p>
-</p>
-
+<h2 align="center"> Hello World! 👋 <br/> </h2>
+<span align="center">I'm tuanha1305, an software developer who loves open source.</span>
+<span align="center">You can find me on Twitter and GitHub — check out my bio for more info.</span>
 ```
 ┌───────────────────────────────────────────────────────────────────────────────────────────────┐
 │ ┌───┐   ┌───┬───┬───┬───┐ ┌───┬───┬───┬───┐ ┌───┬───┬───┬───┐ ┌───┬───┬───┐                   │
@@ -28,41 +23,39 @@
 ### 👩‍💻 I'm working on <a href = "https://vccorp.vn/">Vccorp</a>!
 
 ### ⚡ Technologies
-- Front-end: Android, iOS, ReactJs, Flutter & React Native
-- Backend: NodeJs, Typescript, PHP & Go
+- Front-end: Android, iOS, React, NextJs, Flutter & React Native
+- Backend: Go , Rust, Python, Node, Typescript, Java & PHP
 - Deployement: Docker
 
 Languages I use: <br>
+![Go](https://img.shields.io/badge/-Go-141414?style=flat&logo=go)
+![Rust](https://img.shields.io/badge/-Rust-141414?style=flat&logo=Rust)
 ![Bash](https://img.shields.io/badge/-Bash-141414?style=flat&logo=gnu-bash)
-![Markdown](https://img.shields.io/badge/-Markdown-141414?style=flat&logo=markdown)
+![C Sharp](https://img.shields.io/badge/-C%20Sharp-141414?style=flat&logo=c-sharp)
+![C++](https://img.shields.io/badge/-C++-141414?style=flat&logo=c++)
+![C](https://img.shields.io/badge/-C-141414?style=flat&logo=c)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-141414?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-141414?style=flat&logo=typescript)
-![Graph Ql](https://img.shields.io/badge/-GraphQL-141414?style=flat&logo=graphql)
-![C Sharp](https://img.shields.io/badge/-C%20Sharp-141414?style=flat&logo=c-sharp)
-![Go](https://img.shields.io/badge/-Go-141414?style=flat&logo=go)
-![SQL](https://img.shields.io/badge/-SQL-141414?style=flat&logo=postgresql)
+![Swift](https://img.shields.io/badge/-Swift-141414?style=flat&logo=Swift)
 
 Tools & technologies I have worked with: <br>
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-141414?style=flat&logo=postgresql)
+![SQL Server](https://img.shields.io/badge/-PostgreSQL-141414?style=flat&logo=postgresql)
 ![MySQL](https://img.shields.io/badge/-MySQL-141414?style=flat&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-141414?style=flat&logo=mongodb)
-![Node](https://img.shields.io/badge/-Node-141414?style=flat&logo=node.js)
-![Go](https://img.shields.io/badge/-Go-141414?style=flat&logo=go)
 ![CentOs](https://img.shields.io/badge/-CentOs-141414?style=flat&logo=centos)
 ![Linux](https://img.shields.io/badge/-Linux-141414?style=flat&logo=linux)
 ![Windows](https://img.shields.io/badge/-Windows-141414?style=flat&logo=windows)
 ![Docker](https://img.shields.io/badge/-Docker-141414?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Nginx-141414?style=flat&logo=nginx)
-![Git](https://img.shields.io/badge/-Apache-141414?style=flat&logo=apache)
+![Nginx](https://img.shields.io/badge/-Nginx-141414?style=flat&logo=nginx)
+![Apache](https://img.shields.io/badge/-Apache-141414?style=flat&logo=apache)
 ![Git](https://img.shields.io/badge/-Git-141414?style=flat&logo=git)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-141414?style=flat&logo=bitbucket)
-![Gitlab](https://img.shields.io/badge/-Gitlab-141414?style=flat&logo=gitlab)
-![Github](https://img.shields.io/badge/-Github-141414?style=flat&logo=github)
-![Intellij Idea](https://img.shields.io/badge/-Intellij%20Idea-141414?style=flat&logo=intellij-idea)
-
 ### ✔️ I'm currently learning
+- Rust
 - C/C++
 - Go
+- Python
+- C#
 - Java
 - Kotlin
 - Swift
