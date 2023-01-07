@@ -1,5 +1,5 @@
 <h2 align="center"> Hello World! 👋 <br/> </h2>
-<span align="center">I'm tuanha1305, an software developer who loves open source.</span>
+<span align="center">I'm tuanha1305, an software developer who loves open source.</span><br>
 <span align="center">You can find me on Twitter and GitHub — check out my bio for more info.</span>
 
 ### 👩‍💻 I'm working on <a href = "https://vccorp.vn/">Vccorp</a>!
