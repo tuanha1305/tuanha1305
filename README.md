@@ -1,38 +1,27 @@
-<h2 align="center"> Hello World! 👋 <br/> </h2>
-<span align="center">I'm tuanha1305, an software developer who loves open source.</span><br>
-<span align="center">You can find me on Twitter and GitHub — check out my bio for more info.</span>
+# Hello World! 👋
 
-### 👩‍💻 I'm working on <a href = "https://dlsinc.com/">DLS</a>!
+I'm Tuan Ha (tuanha1305), a software developer passionate about open source.
 
-### ⚡ Technologies
-- Front-end: Android, iOS, React, NextJs, Flutter & React Native
-- Backend: Go , Rust, Python, Node, Typescript, Java & PHP
-- Deployement: Docker
+You can find me on Twitter and GitHub — check out my bio for more information.
 
-Languages I use: <br>
-![Go](https://img.shields.io/badge/-Go-141414?style=flat&logo=go)
-![Rust](https://img.shields.io/badge/-Rust-141414?style=flat&logo=Rust)
-![Bash](https://img.shields.io/badge/-Bash-141414?style=flat&logo=gnu-bash)
-![C Sharp](https://img.shields.io/badge/-C%20Sharp-141414?style=flat&logo=c-sharp)
-![C++](https://img.shields.io/badge/-C++-141414?style=flat&logo=c++)
-![C](https://img.shields.io/badge/-C-141414?style=flat&logo=c)
-![JavaScript](https://img.shields.io/badge/-JavaScript-141414?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-141414?style=flat&logo=typescript)
-![Swift](https://img.shields.io/badge/-Swift-141414?style=flat&logo=Swift)
+## 👩‍💻 Currently Working at [DLS](https://dlsinc.com/)
 
-Tools & technologies I have worked with: <br>
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-141414?style=flat&logo=postgresql)
-![SQL Server](https://img.shields.io/badge/-PostgreSQL-141414?style=flat&logo=postgresql)
-![MySQL](https://img.shields.io/badge/-MySQL-141414?style=flat&logo=mysql)
-![MongoDB](https://img.shields.io/badge/-MongoDB-141414?style=flat&logo=mongodb)
-![CentOs](https://img.shields.io/badge/-CentOs-141414?style=flat&logo=centos)
-![Linux](https://img.shields.io/badge/-Linux-141414?style=flat&logo=linux)
-![Windows](https://img.shields.io/badge/-Windows-141414?style=flat&logo=windows)
-![Docker](https://img.shields.io/badge/-Docker-141414?style=flat&logo=docker)
-![Nginx](https://img.shields.io/badge/-Nginx-141414?style=flat&logo=nginx)
-![Apache](https://img.shields.io/badge/-Apache-141414?style=flat&logo=apache)
-![Git](https://img.shields.io/badge/-Git-141414?style=flat&logo=git)
-### ✔️ I'm currently learning
+## ⚡ Technologies
+
+- **Front-end:** Android, iOS, React, NextJs, Flutter & React Native
+- **Backend:** Go, Rust, Python, Node, TypeScript, Java & PHP
+- **Deployment:** Docker
+
+## Languages I Use
+
+Go, Rust, Bash, C Sharp, C++, C, JavaScript, TypeScript, Swift
+
+## Tools & Technologies I've Worked With
+
+PostgreSQL, SQL Server, MySQL, MongoDB, CentOS, Linux, Windows, Docker, Nginx, Apache, Git
+
+## ✔️ Currently Learning
+
 - Rust
 - C/C++
 - Go
@@ -42,7 +31,7 @@ Tools & technologies I have worked with: <br>
 - Kotlin
 - Swift
 
+## ☕ Get in Touch
 
-### ☕ Get in touch
-- Email: <a href="mailto:tuanictu97@gmail.com">tuanictu97@gmail.com</a>
-- Website: https://tuanha1305.github.io
+- Email: [tuanictu97@gmail.com](mailto:tuanictu97@gmail.com)
+- Website: [https://tuanha1305.github.io](https://tuanha1305.github.io)
