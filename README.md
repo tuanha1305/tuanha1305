@@ -4,7 +4,7 @@ I'm Tuan Ha (tuanha1305), a software developer passionate about open source.
 
 You can find me on Twitter and GitHub — check out my bio for more information.
 
-## 👩‍💻 Currently Working at [DLS](https://dlsinc.com/)
+## 👩‍💻 Currently Working at [Tech3C](https://tech3c.vn/)
 
 ## ⚡ Technologies
 
